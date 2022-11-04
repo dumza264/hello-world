@@ -8,3 +8,5 @@ It now includes steps for GitHub
 Let me try it myself this time around
 
 One more line then I am done
+
+I love the README.md file
